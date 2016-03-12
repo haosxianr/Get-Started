@@ -1,5 +1,4 @@
-/// Example of a PHP program Syntax Highlighting.
-
+<!-- Example of a PHP program Syntax Highlighting. -->
 
 <html>
     <head>

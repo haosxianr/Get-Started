@@ -1,4 +1,4 @@
-TextCode is a fast, lightweight and easy-to-use code, text and markup editor. It's built on top of the TextKit[https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/CustomTextProcessing/CustomTextProcessing.html]. 
+**TextCode** is a fast, lightweight and easy-to-use code, text and markup editor. It's built on top of the TextKit[https://developer.apple.com/library/ios/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/CustomTextProcessing/CustomTextProcessing.html]. 
 
 Choose TextCode to view you code offline, you'll be happy you did!
 
@@ -14,4 +14,4 @@ Choose TextCode to view you code offline, you'll be happy you did!
 - Support Slide-Over multitasking features.
 
 ## How To Get Started
-// TO-DO
+- TO-DO

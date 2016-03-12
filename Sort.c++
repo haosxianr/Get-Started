@@ -1,4 +1,4 @@
-/// Example of a C++ program
+/// Example of a C++ program Syntax Highlighting.
 
 // sort algorithm example
 #include <iostream>     // std::cout

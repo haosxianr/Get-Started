@@ -1,3 +1,5 @@
+/// Example of a Swift program Syntax Highlighting.
+
 //
 //  Bounded.swift
 //  Swiftz

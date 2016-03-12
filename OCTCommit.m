@@ -1,3 +1,5 @@
+/// Example of a Objective-C program Syntax Highlighting.
+
 //
 //  OCTCommit.m
 //  OctoKit

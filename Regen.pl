@@ -1,3 +1,5 @@
+### Example of a Perl program Syntax Highlighting.
+
 #!/usr/bin/perl -w
 require 5.003;	# keep this compatible, an old perl is all we may have before
                 # we build the new one

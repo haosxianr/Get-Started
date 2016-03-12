@@ -1,3 +1,5 @@
+--  Example of a SQL file Syntax Highlighting.
+
 --
 -- PostgreSQL port of the MySQL "World" database.
 --

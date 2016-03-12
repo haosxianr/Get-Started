@@ -1,4 +1,4 @@
-/// Example of a Python program Syntax Highlighting.
+### Example of a Python program Syntax Highlighting.
 
 __author__ = 'friday'
 

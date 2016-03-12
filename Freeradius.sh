@@ -1,3 +1,6 @@
+/// Example of a Bash file Syntax Highlighting.
+
+
 yum install -y freeradius freeradius-utils
 
 chkconfig radiusd on

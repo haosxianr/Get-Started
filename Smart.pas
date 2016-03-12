@@ -1,3 +1,6 @@
+/// Example of a Pascal program Syntax Highlighting.
+
+
 program test;
 (* niveau difficile (intellignet) pour le jeu Tic-Tac-Toe *)
 type

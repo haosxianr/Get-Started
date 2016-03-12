@@ -1,3 +1,5 @@
+### Example of a Ruby program Syntax Highlighting.
+
 #
 # Cookbook Name:: perl
 # Attributes:: default

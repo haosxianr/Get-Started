@@ -1,4 +1,4 @@
---- Example of a ADA program Syntax Highlighting.
+--- Example of a ADa program Syntax Highlighting.
 
 -- josephus.adb:  remove every ith member of a circular list
 

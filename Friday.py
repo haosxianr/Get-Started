@@ -1,3 +1,5 @@
+/// Example of a Python program Syntax Highlighting.
+
 __author__ = 'friday'
 
 from PIL import Image, ImageDraw, ImageFont

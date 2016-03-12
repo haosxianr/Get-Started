@@ -1,4 +1,4 @@
-/// Example of a Java program
+/// Example of a Java program Syntax Highlighting.
 
 Class SomeNumbers
 {

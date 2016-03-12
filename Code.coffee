@@ -1,4 +1,4 @@
-### Example of a CoffeeScript program Syntax Highlighting.
+# Example of a CoffeeScript program Syntax Highlighting.
 
 # Functions:
 square = (x) -> x * x

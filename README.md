@@ -4,7 +4,7 @@ Choose TextCode to view you code offline, you'll be happy you did!
 
 ## Features
 - Great syntax highlighting, supports more than 40 programming languages.
-- More than 60 built-in highlighting themes to be choose.
+- More than 60 built-in highlighting themes to be chosen.
 - Support UTF-8 and Chinese-GB18030 file encoding.
 - Clone your github Repository & Download Dropbox files just make one click.
 - Nice fonts: Monaco, Menlo, Consolas.

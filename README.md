@@ -12,6 +12,3 @@ Choose TextCode to view you code offline, you'll be happy you did!
 - File Manage: Add, Delete, Rename files.
 - Add file to favorites.
 - Support Slide-Over multitasking features.
-
-## How To Get Started
-- TO-DO
